@@ -1,0 +1,31 @@
+segment_sources:
+  I96EE1DC4:
+    type: origin_type
+    relation: translation
+    language: en
+  IC390F41F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  fad55b1e50694998b4b237d2b95e35d2:
+    I96EE1DC4: 6b5694288342479db8dfd2e6e7f1cb7f
+    IC390F41F: d4a092c852734dfab7b6a82b906aa2a2
+  6615175953054929ab9a4f8bcfe6f18c:
+    I96EE1DC4: 4fec91c6f95c401f836732a0417bd765
+    IC390F41F: b2409a51dd31466f92cc9a88979e032d
+  da2f89f9638e49edbe9d1b6dc617aae5:
+    I96EE1DC4: 1862ab1261814e0490d779f997d3b79d
+    IC390F41F: 71af8c6c0954468da5acec9e3b42df18
+  7c3b0633670d4c74b3ff06d3eab12334:
+    I96EE1DC4: 611700a9543f4000a39a870086a249c1
+    IC390F41F: fe346c06474d4e94bdf1109b3ebbf3ae
+  984d3e85ad8346659ce4f09ef01d8f08:
+    I96EE1DC4: c8e10a57b333442d8cb1d852c9f450bc
+    IC390F41F: 9b772efd1f3343bfa538f4b452c5f20f
+  cc938b1131de4ee39fa47edeee0416d2:
+    I96EE1DC4: af2e2f7dff2e4dc0a1fc1db7e5429e24
+    IC390F41F: f23b2a4694e44e6f921ddad3dd8c3a01
+  8040e90e14dd401184ae978d74accc75:
+    I96EE1DC4: ab45ef1b9aa549c39d38c3c1dbbe773c
+    IC390F41F: 8afbd976cb914936b09ad2c1293ca07d
